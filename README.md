@@ -22,8 +22,3 @@ Este projeto foi construído focando em escalabilidade e manutenção:
 - **Global Exception Handling:** Middleware customizado para padronização de respostas de erro.
 - **Entity Framework Core (Code-First):** Migrations automatizadas.
 
-##  Como rodar localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Lucasfrrb/TradeCore-API.git](https://github.com/Lucasfrrb/TradeCore-API.git)
