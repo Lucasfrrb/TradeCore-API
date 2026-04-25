@@ -26,4 +26,4 @@ Este projeto foi construído focando em escalabilidade e manutenção:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SeuUsuario/TradeCore-API.git](https://github.com/SeuUsuario/TradeCore-API.git)
+   git clone [https://github.com/SeuUsuario/TradeCore-API.git](https://github.com/Lucasfrrb/TradeCore-API.git)
